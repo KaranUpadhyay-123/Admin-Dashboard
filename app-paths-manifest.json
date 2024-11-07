@@ -1,0 +1,7 @@
+{
+  "/page": "app/page.js",
+  "/calendar/page": "app/calendar/page.js",
+  "/profile/page": "app/profile/page.js",
+  "/chart/page": "app/chart/page.js",
+  "/ui/buttons/page": "app/ui/buttons/page.js"
+}
